@@ -7,7 +7,7 @@ public class Selina {
     public void introduce() {
         System.out.println("Hi I am Selina and I am " + age + " years old");
     }
-    public void selinaSfriends{
+    public void selinaSfriends {
         System.out.println("Selina has a friend called AMbiya ");
         System.out.println("Selina has a friend called Shucbehcha ");
     }
