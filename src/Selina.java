@@ -14,4 +14,7 @@ public class Selina {
     public void shuchhchahba(int x ) {
         System.out.println("Shucbuche farted"  + x + " times");
     }
+    public void selinaNoFriends() {
+        System.out.println("Selina has no friends");
+    }
 }
