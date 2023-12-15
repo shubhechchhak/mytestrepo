@@ -11,4 +11,7 @@ public class Selina {
         System.out.println("Selina has a friend called AMbiya ");
         System.out.println("Selina has a friend called Shucbehcha ");
     }
+    public void shuchhchahba(int x ) {
+        System.out.println("Shucbuche farted"  + x + " times");
+    }
 }
