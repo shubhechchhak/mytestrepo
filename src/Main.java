@@ -15,7 +15,7 @@ public class Main {
 
             System.out.println("Hi my name is Ambiya");
             System.out.println("Hi Shuchehchah Bullies me everyday");
-            System.out.println("I am in 11th grade and in the Software major");
+            System.out.println("Poopie");
         }
     }
 }
